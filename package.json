@@ -27,7 +27,7 @@
     "babel-preset-stage-3": "^6.24.1",
     "html-webpack-plugin": "^2.26.0",
     "path": "^0.12.7",
-    "webpack": "^3.6.0",
+    "webpack": "^5.94.0",
     "webpack-dev-server": "^5.0.4"
   }
 }
